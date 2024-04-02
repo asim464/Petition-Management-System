@@ -1,9 +1,1 @@
-# Editor directories and files
-.idea
-.vscode/*
-
-# Local DB
-*.sqlite3
-
-# migrations folder for api App
-migrations
+node_modules
